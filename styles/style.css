@@ -65,7 +65,7 @@
   right: 0;
   bottom: 0;
   z-index: 1;
-  object-fit:cover ;
+  object-fit:cover;
 }
 
 .header__square-pic{
@@ -235,7 +235,6 @@ text-decoration: none;
   overflow: hidden;
   position: relative;
   z-index: 1;
-
 }
 
 .section__title__theme_dark{
@@ -243,7 +242,7 @@ text-decoration: none;
 }
 
 .table__theme_dark{
-  margin: 0 auto 90px auto; 
+  margin: 0 auto 90px auto;
   position: relative;
   z-index: 2;
 }
