@@ -1,7 +1,6 @@
 .header__block {
-    
-    min-height: 600px;
-    max-height: 756px;
-    position: relative;
-    overflow: hidden;
+  min-height: 600px;
+  max-height: 756px;
+  position: relative;
+  overflow: hidden;
 }
